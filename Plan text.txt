@@ -1,0 +1,9 @@
+Write an ad hoc query using WHERE and AVG
+
+Save result in a view
+
+Create new table
+
+Insert view results
+
+Create a stored procedure to get high-rated books

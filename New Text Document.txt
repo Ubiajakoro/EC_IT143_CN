@@ -1,0 +1,11 @@
+# My Communities Analysis Project
+
+I analyzed two communities using T-SQL:
+- **Book Readers** (GoodreadsBooks dataset)
+- **Small Business Owners** (SalesData dataset)
+
+Each folder contains:
+- The question I asked
+- My plan
+- SQL files for ad hoc query, view, table, insert, and stored procedure
+

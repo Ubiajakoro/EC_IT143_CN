@@ -1,0 +1,9 @@
+Use GROUP BY and SUM in ad hoc query
+
+Create view
+
+Create table
+
+Insert results
+
+Create stored procedure to show top product

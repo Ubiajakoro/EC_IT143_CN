@@ -1,0 +1,4 @@
+CREATE VIEW BookRatingView AS
+SELECT title, average_rating
+FROM GoodreadsBooks
+WHERE publication_year > 2010;
