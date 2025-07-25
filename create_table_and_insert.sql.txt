@@ -1,7 +1,7 @@
-CREATE TABLE ProductSalesTable (
-    product_name VARCHAR(255),
-    total_sales FLOAT
+CREATE TABLE BookRatingTable (
+    title VARCHAR(255),
+    average_rating FLOAT
 );
 
-INSERT INTO ProductSalesTable
-SELECT * FROM ProductSalesView;
+INSERT INTO BookRatingTable
+SELECT * FROM BookRatingView;
