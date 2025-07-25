@@ -1,4 +1,4 @@
-CREATE PROCEDURE GetTopBooks
+CREATE PROCEDURE GetTopProduct
 AS
-SELECT * FROM BookRatingTable
-WHERE average_rating > 4.0;
+SELECT TOP 1 * FROM ProductSalesTable
+ORDER BY total_sales DESC;
