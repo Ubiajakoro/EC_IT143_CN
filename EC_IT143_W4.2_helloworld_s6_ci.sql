@@ -1,0 +1,2 @@
+-- S6 script for HelloWorld
+-- Your SQL code goes here.
